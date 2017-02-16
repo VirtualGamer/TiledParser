@@ -1,0 +1,13 @@
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\AssetImporter.dll
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\AssetImporter.pdb
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\mscorlib.dll
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\normidna.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\normnfc.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\normnfd.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\normnfkc.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\normnfkd.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\obj\Debug\TiledParser.csprojResolveAssemblyReference.cache
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\obj\Debug\AssetImporter.dll
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\obj\Debug\AssetImporter.pdb
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\GLMaths.dll
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\TiledParser\bin\Debug\GLMaths.pdb

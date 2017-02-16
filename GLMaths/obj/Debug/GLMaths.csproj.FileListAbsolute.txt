@@ -1,0 +1,11 @@
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\bin\Debug\GLMaths.dll
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\bin\Debug\GLMaths.pdb
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\bin\Debug\mscorlib.dll
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\bin\Debug\normidna.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\bin\Debug\normnfc.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\bin\Debug\normnfd.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\bin\Debug\normnfkc.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\bin\Debug\normnfkd.nlp
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\obj\Debug\GLMaths.csprojResolveAssemblyReference.cache
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\obj\Debug\GLMaths.dll
+C:\Users\Tripl3Fac3\Desktop\Saxion\Level Editor\Builds\TiledParser\TiledParser\GLMaths\obj\Debug\GLMaths.pdb

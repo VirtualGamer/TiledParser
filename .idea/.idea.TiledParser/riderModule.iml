@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../AITest">
+      <sourceFolder url="file://$MODULE_DIR$/../../../AITest" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../AITest/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../AITest/obj" />
+    </content>
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../GLMaths" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../TiledParser" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../GLMaths/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../GLMaths/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TiledParser/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TiledParser/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
